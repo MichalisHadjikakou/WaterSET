@@ -1,7 +1,7 @@
 # WaterSET
 Underlying code and input files for running the Matlab(C) versions of Water Supply Evaluation Tool (MRIO-LCA model for water supply sustainability assessment) 
 
-The project was supported by The Water Research Foundation (Reuse-14-03). An extensive final project report can be accessed at: https://www.werf.org/a/ka/Search/ResearchProfile.aspx?ReportId=Reuse-14-03. A compiled Excel version of the software is also available through Justin Mattingly (jmattingly@waterrf.org) at the Water Research Foundation.
+The project was supported by The Water Research Foundation (Reuse-14-03). An extensive final project report can be accessed at: https://www.werf.org/a/ka/Search/ResearchProfile.aspx?ReportId=Reuse-14-03. A compiled Excel version of the software along with instructions on how to install and run it are available through Justin Mattingly (jmattingly@waterrf.org) at the Water Research Foundation. 
 
 Please use the following citation when referencing this work:
 
